@@ -1,3 +1,12 @@
+<h1 align="center"> Eat N Split 💰</h1>
+<p align="center">
+<img align="center" width="720px" src="./banner.png" alt="Banner Image">
+</p>
+
+# Single Page Application for Split the Bill with your friends 😉
+
+## A Project by `Jonas Schmedtmann` - React Ultimate Course
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
