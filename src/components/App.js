@@ -68,9 +68,11 @@ export default function App() {
 				</Button>
 			</div>
 			{selectedFriend && (
+				// Using key prop to reset the state
 				<SplitBillForm
 					selectedFriend={selectedFriend}
 					onSplit={handleSplit}
+					key={selectedFriend.id}
 				/>
 			)}
 		</div>
