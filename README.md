@@ -7,6 +7,12 @@
 
 ## A Project by `Jonas Schmedtmann` - React Ultimate Course
 
+## See Project DEMO on 👉[ThisURL]()👈
+
+## Thanks for visiting my GitHub 🫡♥️
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
